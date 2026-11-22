@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 a3d8353ad2abed981bf90f178b56e532a29c230d belly <belly@users.noreply.github.com> 1795330389 +0000	commit (initial): chore: init repo dan tambah log insiden Mei 2026
+a3d8353ad2abed981bf90f178b56e532a29c230d ac1834f644121ffa53ddc6120bdc9690446d2697 belly <belly@users.noreply.github.com> 1795330389 +0000	commit: feat: tambah kalkulator SLA availability
+ac1834f644121ffa53ddc6120bdc9690446d2697 d312e9ec7da56adf4cf7b2fcfda401d10b0ca3ca belly <belly@users.noreply.github.com> 1795330389 +0000	commit: test: unit test perhitungan SLA dan error budget
+d312e9ec7da56adf4cf7b2fcfda401d10b0ca3ca 1b965c9b9bc5a0d671478b6b710b679e577ec5f5 belly <belly@users.noreply.github.com> 1795330389 +0000	commit: docs: breakdown insiden, perhitungan, rekomendasi, catatan belajar
+1b965c9b9bc5a0d671478b6b710b679e577ec5f5 6849796f04c75ab758042ac5d5c53a4edd714b65 belly <belly@users.noreply.github.com> 1795330389 +0000	commit: docs: tambah laporan utama (executive report)
